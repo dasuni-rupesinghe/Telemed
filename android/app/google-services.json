@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701681198015",
+    "firebase_url": "https://raspbery-tele-med.firebaseio.com",
+    "project_id": "raspbery-tele-med",
+    "storage_bucket": "raspbery-tele-med.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701681198015:android:754873b8f571d7aeba770a",
+        "android_client_info": {
+          "package_name": "com.telapp.telemed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701681198015-a82p0itofketkg0dr0anl2j5r94kiigj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQeYfDknbVqElDtVHAqXIuLjpHc8X2TsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701681198015-a82p0itofketkg0dr0anl2j5r94kiigj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
